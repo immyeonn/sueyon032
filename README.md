@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=200&section=header&text=%20&fontSize=폰트크기)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FDD7E4&height=200&section=header&text=%20&fontSize=폰트크기)
 <h1 align="center">suyeon Kim</h1>
 
 <h3 align = 'center'>🐣intro🐣 <br><br>

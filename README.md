@@ -3,7 +3,8 @@
 
 <h3 align = 'center'>🐣intro🐣 <br><br>
 <a href=https://www.instagram.com/ssuyn__06/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href=https://velog.io/@suyeon_06><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a><br>
+<a href=https://velog.io/@suyeon_06><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href=https://www.notion.so/6908e7fdda4948b39153f9a60508c824?v=8339b97c65c5420e935cb1bd3d8f33fc><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <br>
 
 <h3 align = 'center'>📚skills📚 <br><br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 

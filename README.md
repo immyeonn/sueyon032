@@ -1,9 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FDD7E4&height=200&section=header&text=%20&fontSize=폰트크기)
-<h1 align="center">suyeon Kim</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=C4DFAA&height=200&section=header&text=Suyeon's&nbsp;Gihub&fontSize=55)
+<br>
 
-<a href=https://www.instagram.com/ss_uyn/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<h5>🚩welcome</h5>
+<p>👋Hi there, I will be a frontend developer!</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sueyon032)](https://github.com/suyeon032/github-readme-stats) &nbsp; &nbsp; &nbsp;
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sueyon032&show_icons=true&theme=omni)](https://github.com/sueyon032/github-readme-stats)
-
-
+<h5>🚩skills</h5>
+<div>
+  <img src="https://img.shields.io/badge/HTML5-F6BA6F?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFDB89?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Css3-DBDFEA?style=flat-square&logo=Css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F7A4A4?style=flat-square&logo=Java&logoColor=white"/>
+</div>

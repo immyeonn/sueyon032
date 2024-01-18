@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=C4DFAA&height=200&section=header&text=Suyeon's&nbsp;Gihub&fontSize=55)
-<br>
-
 <h5>🚩welcome</h5>
 <p>👋Hi there, I will be a frontend developer!</p>
 
